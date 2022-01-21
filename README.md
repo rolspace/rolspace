@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Rolando.
+
+I was lucky enough to get into this software engineering thing a long time ago and I am planning to stay for even longer!
+
+Nowadays, I am based in Switzerland, where I work at Comparis AG, leading a team of Software Engineers in designing and building solutions with TypeScript, Next, React, .NET, Azure and a lot of other tools.
 
 <!--
 **rolspace/rolspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,21 +2,12 @@
 
 I'm Rolando.
 
-I was lucky enough to get into this software engineering thing a long time ago and I am planning to stay for even longer!
+I was lucky enough to get into this Software Engineering thing a long time ago and I am not planning to stop anytime soon!
 
-Nowadays, I am based in Switzerland, where I work at Comparis AG, leading a team of Software Engineers in designing and building solutions with TypeScript, Next, React, .NET, Azure and a lot of other tools.
+Born and raised in Panama🇵🇦, I got my Computer Science degree in the US🇺🇸 and I also lived for a while in Spain. 
 
-<!--
-**rolspace/rolspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nowadays I live in Switzerland🇨🇭, where I work at Comparis AG, leading a team of Software Engineers in designing and building solutions with Next, React, TypeScript, .NET, Azure and a lot of other tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-Rolando%20Ramos-blue?logo=linkedin)](https://www.linkedin.com/in/rolandoramosrestrepo/)
+[![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-orange?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6909765/rolspace)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/rolspace)

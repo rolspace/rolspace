@@ -6,7 +6,7 @@ I was lucky enough to get into this Software Engineering thing a long time ago a
 
 Born and raised in Panama City 🇵🇦, I completed my Computer Science degree in the US 🇺🇸, and some time after that I ended up living in Spain 🇪🇸 for quite a few years. 
 
-These days I live in Switzerland🇨🇭 and I work as a Solution Architect for Comparis AG, where I help to build techy things with an amazing team of software engineers. We work with React, Next, TypeScript, dotNET, Azure and a lot of other tools to build high quality software.
+These days I live in Switzerland🇨🇭. I work as a Solution Architect for Comparis AG, where I help to build techy things with an amazing team of software engineers. We work with React, Next, TypeScript, dotNET, Azure and a lot of other tools to build high quality software.
 
 I have a few personal projects here in GitHub, feel free to check them out! 💻
 

@@ -2,11 +2,13 @@
 
 I'm Rolando.
 
-I was lucky enough to get into this Software Engineering thing a long time ago and I am not planning to stop anytime soon 😏
+I was lucky enough to get into Software Engineering a long time ago and I am not planning to stop anytime soon 😏
 
 Born and raised in Panama City 🇵🇦, I completed my Computer Science degree in the US 🇺🇸, and some time after that I ended up living in Spain 🇪🇸 for quite a few years. 
 
-These days I live in Switzerland🇨🇭. I work as a Solution Architect for Comparis AG, where I help to build techy things with an amazing team of software engineers. We work with React, Next, TypeScript, dotNET, Azure and a lot of other tools to build high quality software.
+I moved to Switzerland🇨🇭 in 2014 and I enjoyed some of the most beautiful landscapes I have ever seen. Eight years later, I decided it was time to return to Spain and it's been great so far.
+
+Currently, I am a Solution Architect for Comparis AG, where I help to build techy things with an amazing team of software engineers. We work with React, Next, TypeScript, dotNET, Azure and a lot of other tools to build high quality software.
 
 I have a few personal projects here in GitHub, feel free to check them out! 💻
 

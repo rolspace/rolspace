@@ -1,14 +1,17 @@
-### Hello! 👋
+### Hello there! 👋
 
-I'm Rolando.
+My name is Rolando and I am a software engineer.
 
-I was lucky enough to get into Software Engineering a long time ago and I am not planning to stop anytime soon 😏
+I was born in Panama City, Panama 🇵🇦.
 
-Born and raised in Panama City 🇵🇦, I completed my Computer Science degree in the US 🇺🇸, and some time after that I ended up living in Spain 🇪🇸 for quite a few years. 
+I hold a degree in Computer Science from [Harding University](https://www.harding.edu/academics/colleges-departments/sciences/computer-science), located in the state of Arkansas, in the United States 🇺🇸.
 
-I moved to Switzerland🇨🇭 in 2014 and I enjoyed some of the most beautiful landscapes I have ever seen. Eight years later, I decided it was time to return to Spain and it's been great so far.
+After a few years, I pursued an MBA degree from Universidad Antonio de Nebrija, in the bustling city of Madrid, Spain 🇪🇸.
+I fell in love with Madrid and I decided to stay as a resident for several years after completing my degree.
 
-Currently, I am a Solution Architect for Comparis AG, where I help to build techy things with an amazing team of software engineers. We work with React, Next, TypeScript, dotNET, Azure and a lot of other tools to build high quality software.
+In 2014, I decided to explore a new adventure and moved to Zürich, Switzerland🇨🇭. No doubt, it definitely has the most amazing landscapes I have ever seen in my life, but, eight years later, I felt it was time to return to Madrid.
+
+Currently, as a solution architect for [Comparis AG](https://www.comparis.ch/people/jobs), I work remotely to help build technical solutions with an amazing team of software engineers. We use dotNET, React, Next, TypeScript, Azure. Docker, and a lot of other tools to build high quality software.
 
 I have a few personal projects here in GitHub, feel free to check them out! 💻
 

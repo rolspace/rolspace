@@ -4,7 +4,7 @@ My name is Rolando and I am a software engineer.
 
 I was born in Panama City, Panama 🇵🇦.
 
-I hold a degree in Computer Science from [Harding University](https://www.harding.edu/academics/colleges-departments/sciences/computer-science), located in the state of Arkansas, in the United States 🇺🇸.
+I have a degree in Computer Science from [Harding University](https://www.harding.edu/academics/colleges-departments/sciences/computer-science), located in the state of Arkansas, in the United States 🇺🇸.
 
 After a few years, I moved to the bustling city of Madrid in Spain 🇪🇸, to obtain an MBA from Universidad Antonio de Nebrija.
 I fell in love with the city and lived there for several years after graduating.
